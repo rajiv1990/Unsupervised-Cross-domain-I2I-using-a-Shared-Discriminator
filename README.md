@@ -1,7 +1,7 @@
 # Unsupervised-Cross-domain-I2I-using-a-Shared-Discriminator
 
 Code for our paper [Learning Unsupervised Cross-domain Image-to-Image Translation Using a Shared Discriminator](https://arxiv.org/abs/2102.04699v1). 
-Accepted at [VISAPP 2021](https://www.scitepress.org/Papers/2021/101841/).
+Accepted at [VISAPP 2021](https://www.scitepress.org/PublicationsDetail.aspx?ID=IIlsu+KKmb8=&t=1)(https://www.scitepress.org/Papers/2021/101841/).
 If you find this code useful, please consider citing our paper.
 
 ```text
@@ -33,4 +33,4 @@ If you find this code useful, please consider citing our paper.
 ### Training 
 
 ### License
-Please see the LICENSE file for details.
+Apache 2.0 License. Please see the LICENSE file for details.
