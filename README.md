@@ -29,8 +29,16 @@ If you find this code useful, please consider citing our paper.
 * 
 
 ## How to use
+The ipython notebook has the code to train as well as the test the models. 
+Set appropriate options in the cells to either train or test the method.
 
+We suggest using helper functions at the end of the notebook that you may find useful. 
 ### Training 
+
+### Testing 
+
+### Acknowledgements
+OUr code borrows the code from pytorch-CycleGAN-and-pix2pix(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
 ### License
 Apache 2.0 License. Please see the LICENSE file for details.
