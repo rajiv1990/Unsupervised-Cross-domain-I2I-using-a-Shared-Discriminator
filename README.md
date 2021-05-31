@@ -1,6 +1,8 @@
 # Unsupervised-Cross-domain-I2I-using-a-Shared-Discriminator
 
-Code for our paper [Learning Unsupervised Cross-domain Image-to-Image Translation Using a Shared Discriminator](https://arxiv.org/abs/2102.04699v1). If you find this code useful, please consider citing our paper.
+Code for our paper [Learning Unsupervised Cross-domain Image-to-Image Translation Using a Shared Discriminator](https://arxiv.org/abs/2102.04699v1). 
+Accepted at [VISAPP 2021](https://www.scitepress.org/Papers/2021/101841/).
+If you find this code useful, please consider citing our paper.
 
 ```text
 @article{DBLP:journals/corr/abs-2102-04699,
@@ -20,3 +22,15 @@ Code for our paper [Learning Unsupervised Cross-domain Image-to-Image Translatio
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+## Dependencies
+
+* python 3
+* pytorch
+* 
+
+## How to use
+
+### Training 
+
+### License
+Please see the LICENSE file for details.
